@@ -1,0 +1,44 @@
+_repo: Einstein-and-the-Universe-A-popular-exposition-of-the-famous-theory_68462
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Haldane, Viscount
+    gutenberg_agent_id: '54783'
+    url: http://www.gutenberg.org/2009/agents/54783
+  translator:
+    agent_name: McCabe, Joseph
+    aliases:
+    - Antony, Father
+    - McCabe, Antony
+    - Macabe, Joseph
+    birthdate: 1867
+    deathdate: 1955
+    gutenberg_agent_id: '521'
+    url: http://www.gutenberg.org/2009/agents/521
+    wikipedia: https://en.wikipedia.org/wiki/Joseph_McCabe
+creator:
+  author:
+    agent_name: Nordmann, Charles
+    birthdate: 1881
+    deathdate: 1940
+    gutenberg_agent_id: '41418'
+    url: http://www.gutenberg.org/2009/agents/41418
+description: ''
+gutenberg_issued: '2022-07-05'
+identifiers:
+  gutenberg: '68462'
+language: en
+pgterms:marc904: https://archive.org/details/einsteinuniverse00norduoft
+pgterms:marc905: 20211124073123nordmann
+pgterms:marc906: '1922'
+pgterms:marc907: GB
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :T. Fisher Unwin Ltd,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Einstein and the Universe: A popular exposition of the famous theory'
+url: http://www.gutenberg.org/ebooks/68462
