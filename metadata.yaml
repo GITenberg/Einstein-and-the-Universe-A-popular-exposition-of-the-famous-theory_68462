@@ -16,6 +16,9 @@ contributor:
     gutenberg_agent_id: '521'
     url: http://www.gutenberg.org/2009/agents/521
     wikipedia: https://en.wikipedia.org/wiki/Joseph_McCabe
+covers:
+- cover_type: archival
+  image_path: 68462-h/images/cover.jpg
 creator:
   author:
     agent_name: Nordmann, Charles
@@ -24,6 +27,8 @@ creator:
     gutenberg_agent_id: '41418'
     url: http://www.gutenberg.org/2009/agents/41418
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68462#Einstein-and-the-Universe-A-popular-exposition-of-the-famous-theory
 gutenberg_issued: '2022-07-05'
 identifiers:
   gutenberg: '68462'
